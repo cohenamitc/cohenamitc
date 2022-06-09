@@ -1,4 +1,9 @@
 ### Hi there 👋
+ - 🙋‍♂️ Amit Cohen
+ - ⚒️ Site Reliability Engineer
+ - 🧑‍💻 Microsoft Defender for Cloud Apps
+ - 🐕‍🦺 Oliver's Father
+ - 📫 [LinkedIn](https://www.linkedin.com/in/cohenamitc/)
 
 <!--
 **cohenamitc/cohenamitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
